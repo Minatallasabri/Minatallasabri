@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Minatallasabri
+- 👋 Hi, I’m @Minatallasabri.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Frontend-Deveolping.
-- 😄 Pronouns: Manoona
-- ⚡ Fun fact: I'm Just Biginner Programmer
+- 😄 Pronouns: Manoona.
+- ⚡ Fun fact: I'm Just Biginner Programmer.
 
 <!---
 Minatallasabri/Minatallasabri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
